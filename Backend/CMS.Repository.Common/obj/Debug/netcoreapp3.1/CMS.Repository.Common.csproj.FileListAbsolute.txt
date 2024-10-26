@@ -1,0 +1,15 @@
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\bin\Debug\netcoreapp3.1\CMS.Repository.Common.deps.json
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\bin\Debug\netcoreapp3.1\CMS.Repository.Common.dll
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\bin\Debug\netcoreapp3.1\CMS.Repository.Common.pdb
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\bin\Debug\netcoreapp3.1\CMS.DAL.dll
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\bin\Debug\netcoreapp3.1\CMS.Model.dll
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\bin\Debug\netcoreapp3.1\CMS.DAL.pdb
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\bin\Debug\netcoreapp3.1\CMS.Model.pdb
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\obj\Debug\netcoreapp3.1\CMS.Repository.Common.csproj.AssemblyReference.cache
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\obj\Debug\netcoreapp3.1\CMS.Repository.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\obj\Debug\netcoreapp3.1\CMS.Repository.Common.AssemblyInfoInputs.cache
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\obj\Debug\netcoreapp3.1\CMS.Repository.Common.AssemblyInfo.cs
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\obj\Debug\netcoreapp3.1\CMS.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\obj\Debug\netcoreapp3.1\CMS.Repo.4787D3A6.Up2Date
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\obj\Debug\netcoreapp3.1\CMS.Repository.Common.dll
+C:\Users\karlo\source\repos\CMS\CMS.Repository.Common\obj\Debug\netcoreapp3.1\CMS.Repository.Common.pdb

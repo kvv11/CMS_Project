@@ -1,0 +1,13 @@
+C:\Users\karlo\source\repos\CMS\CMS.DAL\bin\Debug\netcoreapp3.1\CMS.DAL.deps.json
+C:\Users\karlo\source\repos\CMS\CMS.DAL\bin\Debug\netcoreapp3.1\CMS.DAL.runtimeconfig.json
+C:\Users\karlo\source\repos\CMS\CMS.DAL\bin\Debug\netcoreapp3.1\CMS.DAL.runtimeconfig.dev.json
+C:\Users\karlo\source\repos\CMS\CMS.DAL\bin\Debug\netcoreapp3.1\CMS.DAL.dll
+C:\Users\karlo\source\repos\CMS\CMS.DAL\bin\Debug\netcoreapp3.1\CMS.DAL.pdb
+C:\Users\karlo\source\repos\CMS\CMS.DAL\obj\Debug\netcoreapp3.1\CMS.DAL.csproj.AssemblyReference.cache
+C:\Users\karlo\source\repos\CMS\CMS.DAL\obj\Debug\netcoreapp3.1\CMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karlo\source\repos\CMS\CMS.DAL\obj\Debug\netcoreapp3.1\CMS.DAL.AssemblyInfoInputs.cache
+C:\Users\karlo\source\repos\CMS\CMS.DAL\obj\Debug\netcoreapp3.1\CMS.DAL.AssemblyInfo.cs
+C:\Users\karlo\source\repos\CMS\CMS.DAL\obj\Debug\netcoreapp3.1\CMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\karlo\source\repos\CMS\CMS.DAL\obj\Debug\netcoreapp3.1\CMS.DAL.dll
+C:\Users\karlo\source\repos\CMS\CMS.DAL\obj\Debug\netcoreapp3.1\CMS.DAL.pdb
+C:\Users\karlo\source\repos\CMS\CMS.DAL\obj\Debug\netcoreapp3.1\CMS.DAL.genruntimeconfig.cache
